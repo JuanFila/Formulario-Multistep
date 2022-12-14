@@ -1,14 +1,14 @@
 <h1>FORMULARIO-MULTISTEP</h1>
-
 <p> O projeto realizado reproduz uma pagina de feedback ao cliente após uma compra <p/>
 
 <h2> Imagens do projeto <h2/>
 
-Pagina - 1
-<img>
-Pagina - 2
-<img>
-Pagina - 3
+<h3> User form <h3/>
+<img src="./img/UserForm.PNG" alt="Imagem-UserForm" width="500px">
+<h3> Evaluation form  <h3/>
+<img src="./img/UserForm.PNG" alt="Imagem-UserForm" width="500px">
+<h3> Review summary <h3/>
+<img src="./img/UserForm.PNG" alt="Imagem-UserForm" width="500px">
 
 ## ⚙ Tecnologias e ferramentas utilizadas
 
