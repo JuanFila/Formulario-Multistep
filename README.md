@@ -20,7 +20,7 @@
 Clone o projeto e acesse a pasta
 
 ```bash
-$ git clone https://github.com/evertonvargas/ignite-lab-design-system
+$ git clone https://github.com/JuanFila/Formulario-Multistep.git
 
 ```
 
