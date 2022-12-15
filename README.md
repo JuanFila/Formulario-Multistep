@@ -6,9 +6,9 @@
 <h3> User form <h3/>
 <img src="./img/UserForm.PNG" alt="Imagem-UserForm" width="500px">
 <h3> Evaluation form  <h3/>
-<img src="./img/UserForm.PNG" alt="Imagem-UserForm" width="500px">
+<img src="./img/feedbackForm.PNG" alt="Imagem-UserForm" width="500px">
 <h3> Review summary <h3/>
-<img src="./img/UserForm.PNG" alt="Imagem-UserForm" width="500px">
+<img src="./img/Thanks.PNG" alt="Imagem-UserForm" width="500px">
 
 ## ⚙ Tecnologias e ferramentas utilizadas
 
